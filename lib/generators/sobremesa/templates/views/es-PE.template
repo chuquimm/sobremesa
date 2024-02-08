@@ -8,6 +8,7 @@
       show:
         back_link: 'Volver a la lista de <%= @dic[:plural] %>'
         title: 'Datos <%= @dic[:dart_singular] %>'
+        show_link: 'Configurar'
         edit_link: 'Editar'
         edit_pass_link: 'Editar contraseña'
         edit_char_link: 'Editar'
