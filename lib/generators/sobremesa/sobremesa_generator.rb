@@ -28,7 +28,7 @@ class SobremesaGenerator < Rails::Generators::NamedBase
   end
 
   def locales_types
-    %w[active_record controller views]
+    %w[active_records controllers views]
   end
 
   def locales_dir(type)
