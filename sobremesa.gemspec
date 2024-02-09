@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
     'lib/sobremesa.rb',
     'lib/sobremesa/version.rb',
     'lib/generators/sobremesa/sobremesa_generator.rb',
-    'lib/generators/sobremesa/templates/active_records/es-PE.template',
+    'lib/generators/sobremesa/templates/activerecords/es-PE.template',
     'lib/generators/sobremesa/templates/controllers/es-PE.template',
     'lib/generators/sobremesa/templates/views/es-PE.template'
   ]
